@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dice demo</string>
+    <string name="init_text">Shake To Roll!</string>
+</resources>
